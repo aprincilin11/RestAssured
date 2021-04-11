@@ -20,6 +20,7 @@ public class GETRequest extends Credentials {
           */
     }
 
+
     @Test
     public void postRequest() {
         // Basic Authentication
