@@ -4,7 +4,7 @@ import io.restassured.http.ContentType;
 import org.junit.Test;
 import static io.restassured.RestAssured.given;
 
-public class GETRequest extends Credentials {
+public class                                                                                                            GETRequest extends Credentials {
 
     //Using BDD approach the response is gotten using the behaviour, same operations can be done GET,PUT,DELETE,POST
     @Test
